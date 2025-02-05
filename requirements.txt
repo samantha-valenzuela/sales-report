@@ -1,0 +1,2 @@
+streamlit==1.22.0
+# otras dependencias que uses en mymodel.py
